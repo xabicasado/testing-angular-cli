@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:1312/`. The app w
 
 ## Production server
 
-A live version of this project is deployed via `gh-pages`. Navigate to `https://xabicasado.github.io/testing-angular-cli/`. 
+A live version of this project is deployed via `gh-pages`. Navigate to [`https://xabicasado.github.io/testing-angular-cli/`](https://xabicasado.github.io/testing-angular-cli/).
 
 ## Code scaffolding
 
